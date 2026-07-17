@@ -45,7 +45,7 @@ Tek istisna `passwordGenerator.py` scriptidir — bilgisayarda doğrudan Python 
 | # | Dosya | Konu |
 |---|-------|------|
 | 9 | [🎭 socialEngineeringGercekleri.md](socialEngineeringGercekleri.md) | "Hacker" tehditleri, gerçekler ve yasal yaptırımlar |
-| 10 | [🚨 155_911.md](155_911.md) | Acil durum protokolü: hack, hesap çalınması, şantaj |
+| 10 | [🚨 Acil_Durum_Plani.md](Acil_Durum_Plani.md) | Acil durum protokolü: hack, hesap çalınması, şantaj |
 
 ---
 
@@ -79,7 +79,7 @@ Tek istisna `passwordGenerator.py` scriptidir — bilgisayarda doğrudan Python 
 #### 🎭 [socialEngineeringGercekleri.md](socialEngineeringGercekleri.md)
 **Seni tehdit eden kişinin elinde gerçekte ne var?:** "Seni hackliyorum" diyenlerin büyük çoğunluğunun neden boş tehdit (script kiddie) olduğunu, klasik taktiklerini ve bunu yapanların Türk Ceza Kanunu'nda (TCK) karşılaştığı ağır cezaları anlatır.
 
-#### 🚨 [155_911.md](155_911.md)
+#### 🚨 [Acil_Durum_Plani.md](Acil_Durum_Plani.md)
 **Şantaj veya siber saldırıya uğrarsan ne yaparsın? (Acil Durum):** Sadece acil numaraları değil; RAT/hack durumunda dakika dakika izlenecek yol haritasını ve BTK / Emniyet Siber Suç birimine nasıl ihbarda bulunacağını kapsayan kriz protokolü.
 
 ---
@@ -139,7 +139,7 @@ Python dilini kullanarak oluşturulan bu şifre üreticisinde bizim için gerekl
 
 Eğer şu anda hacklendiğini düşünüyorsan, hesabın çalındıysa veya birisi seni şantajla tehdit ediyorsa — yukarıdaki adımları okumayı bırak ve doğrudan şuraya git:
 
-> 🚨 **[155_911.md](155_911.md)** — Dakika dakika acil durum protokolü
+> 🚨 **[Acil_Durum_Plani.md](Acil_Durum_Plani.md)** — Dakika dakika acil durum protokolü
 
 Tehdit eden kişinin elinde gerçekte ne olduğunu anlamak için → [socialEngineeringGercekleri.md](socialEngineeringGercekleri.md)
 
